@@ -1,5 +1,7 @@
 ## Generic 
 #### Introduction
+This project have data type of stacks
+of integers, with methods push, top, pop, and isEmpty.
 
 
 
